@@ -1,0 +1,4 @@
+2019-07-29 10:06:32,808 mycategory [WARN] file: test.c func: main  line: 20 fatal error this is warn message
+2019-07-29 10:07:40,527 mycategory [WARN] file: test.c func: main  line: 20 fatal error this is warn message
+2019-07-29 10:47:15,905 mycategory [WARN] [test.c : 104 : main]this is warn message
+2019-07-29 10:53:34,834 mycategory [WARN] [test.c : 101 : main]this is warn message
